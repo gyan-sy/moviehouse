@@ -16,7 +16,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "/?fullscreen=true",
+  "start_url": ".",
   "orientation": "any",
   "display": "fullscreen",
   "theme_color": "#1c4b91",
